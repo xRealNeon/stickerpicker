@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "signal.json"
+  ],
+  "homeserver_url": "https://matrix.neocde.me"
+}
